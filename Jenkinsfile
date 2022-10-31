@@ -14,8 +14,6 @@ pipeline {
         }
     }
 }
-<<<<<<< HEAD
-=======
 stage('Test') {
             agent {
                 docker {
